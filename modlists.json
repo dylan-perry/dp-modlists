@@ -3,7 +3,7 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Wildlander",
     "description": "The ultimate fantasy life simulator, built for Skyrim Special Edition. Explore a reactive world full of beauty and brutality. Live your life as you see fit.",
-    "author": "Wildlander Team",
+    "author": "Dylan Perry & Wildlander Team",
     "maintainers": [
       "github/Dylan-Perry",
       "github/Wildlander-mod"
@@ -22,19 +22,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
       "readme": "https://github.com/Wildlander-mod/Support/wiki",
-      "download": "https://authored-files.wabbajack.org/Wildlander_1-1-0.wabbajack_4cc2dab4-6d03-499b-b289-e35078305cf4",
+      "download": "https://authored-files.wabbajack.org/Wildlander_1-1-0-1.wabbajack_6afabe5a-a74e-4b1c-9454-a98798c42667",
       "machineURL": "wildlander",
       "discordURL": "https://discord.gg/Gs3z7z3Buq"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "mhB9FQVqSLQ=",
-      "Size": 505640485,
+      "Hash": "Je05jGJKvs4=",
+      "Size": 505640071,
       "NumberOfArchives": 554,
       "SizeOfArchives": 60631378576,
-      "NumberOfInstalledFiles": 112498,
-      "SizeOfInstalledFiles": 77302677742
+      "NumberOfInstalledFiles": 112495,
+      "SizeOfInstalledFiles": 77302677071
     },
-    "version": "1.1.0"
+    "version": "1.1.0.1"
   }
 ]
