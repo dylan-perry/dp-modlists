@@ -20,21 +20,21 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Ultimate_Skyrim/wildlanderimage.png",
-      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/WILDLANDER/WJPlaceholder.md",
-      "download": "https://authored-files.wabbajack.org/Wildlander_1-0-0.wabbajack_8da3a322-60c9-4140-ace5-65b8f9a93158",
+      "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+      "readme": "https://github.com/Wildlander-mod/Support/wiki",
+      "download": "https://authored-files.wabbajack.org/Wildlander_1-1-0.wabbajack_4cc2dab4-6d03-499b-b289-e35078305cf4",
       "machineURL": "wildlander",
       "discordURL": "https://discord.gg/Gs3z7z3Buq"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "oGHu7sT6VOE=",
-      "Size": 248474966,
-      "NumberOfArchives": 597,
-      "SizeOfArchives": 91036403911,
-      "NumberOfInstalledFiles": 92530,
-      "SizeOfInstalledFiles": 94395730050
+      "Hash": "mhB9FQVqSLQ=",
+      "Size": 505640485,
+      "NumberOfArchives": 554,
+      "SizeOfArchives": 60631378576,
+      "NumberOfInstalledFiles": 112498,
+      "SizeOfInstalledFiles": 77302677742
     },
-    "version": "1.0.0"
+    "version": "1.1.0"
   }
 ]
