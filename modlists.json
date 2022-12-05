@@ -22,19 +22,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
       "readme": "https://www.wildlandermod.com/download",
-      "download": "https://authored-files.wabbajack.org/Wildlander_1-1-10-profilefix.wabbajack_baea2d59-082e-43f7-a69a-0f1e5adf8e46",
+      "download": "https://authored-files.wabbajack.org/Wildlander_1-1-11.wabbajack_28e2b229-00e5-4062-b42d-5f51be2017f0",
       "machineURL": "wildlander",
       "discordURL": "https://discord.gg/Gs3z7z3Buq"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "MkNfGoIwiTM=",
-      "Size": 571148914,
+      "Hash": "78ZJ+l4HSt0=",
+      "Size": 570954493,
       "NumberOfArchives": 568,
       "SizeOfArchives": 58937419281,
-      "NumberOfInstalledFiles": 134821,
-      "SizeOfInstalledFiles": 77459197921
+      "NumberOfInstalledFiles": 134738,
+      "SizeOfInstalledFiles": 77458673005
     },
-    "version": "1.1.10"
+    "version": "1.1.11"
   }
 ]
